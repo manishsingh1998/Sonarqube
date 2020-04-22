@@ -1,0 +1,6 @@
+projectKey=com.training.devops:Sonarqube
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=com.training.devops%3ASonarqube
+ceTaskId=AXFUt3CUrieSkp3GK4FU
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXFUt3CUrieSkp3GK4FU
